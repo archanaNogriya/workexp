@@ -5,6 +5,8 @@ A place to store any source code files, links, etc for a work experience project
 ## Useful links :
 
 [Web Games Tutorials](http://spyrestudios.com/30-tutorials-for-html5-browser-games)
+[JSFiddle] (https://jsfiddle.net/)
+It provides a custom environment (based on user selections) to test (or fiddle with) your JavaScript, HTML, and CSS code right inside your browser.
 
 ## Activities :
 
